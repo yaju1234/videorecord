@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/root/Desktop/android-Camera2Video-master/Application/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/root/.android/build-cache/9cdf4996469a5df90af5f10640e9c65c89c16f23/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/yaju/AndroidStudioProjects/android-Camera2Video-master/Application/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/home/yaju/.android/build-cache/42e9ceb889d6f2bed22f4ec450378f4a8323e1bd/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/root/Desktop/android-Camera2Video-master/Application/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/root/.android/build-cache/9cdf4996469a5df90af5f10640e9c65c89c16f23/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/root/Desktop/android-Camera2Video-master/Application/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/root/.android/build-cache/9cdf4996469a5df90af5f10640e9c65c89c16f23/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/yaju/AndroidStudioProjects/android-Camera2Video-master/Application/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/home/yaju/.android/build-cache/42e9ceb889d6f2bed22f4ec450378f4a8323e1bd/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/root/Desktop/android-Camera2Video-master/Application/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/root/.android/build-cache/9cdf4996469a5df90af5f10640e9c65c89c16f23/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/home/yaju/AndroidStudioProjects/android-Camera2Video-master/Application/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/home/yaju/.android/build-cache/42e9ceb889d6f2bed22f4ec450378f4a8323e1bd/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/root/Desktop/android-Camera2Video-master/Application/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/root/.android/build-cache/9cdf4996469a5df90af5f10640e9c65c89c16f23/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/home/yaju/AndroidStudioProjects/android-Camera2Video-master/Application/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/home/yaju/.android/build-cache/42e9ceb889d6f2bed22f4ec450378f4a8323e1bd/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/yaju/AndroidStudioProjects/android-Camera2Video-master/Application/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/home/yaju/.android/build-cache/42e9ceb889d6f2bed22f4ec450378f4a8323e1bd/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/root/Desktop/android-Camera2Video-master/Application/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/root/.android/build-cache/9cdf4996469a5df90af5f10640e9c65c89c16f23/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/yaju/AndroidStudioProjects/android-Camera2Video-master/Application/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/home/yaju/.android/build-cache/42e9ceb889d6f2bed22f4ec450378f4a8323e1bd/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    }
+]

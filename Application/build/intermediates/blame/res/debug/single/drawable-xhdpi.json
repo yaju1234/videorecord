@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/yaju/AndroidStudioProjects/android-Camera2Video-master/Application/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/home/yaju/AndroidStudioProjects/android-Camera2Video-master/Application/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/yaju/AndroidStudioProjects/android-Camera2Video-master/Application/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_info.png",
+        "source": "/home/yaju/AndroidStudioProjects/android-Camera2Video-master/Application/src/main/res/drawable-xhdpi/ic_action_info.png"
+    },
+    {
+        "merged": "/root/Desktop/android-Camera2Video-master/Application/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_info.png",
+        "source": "/root/Desktop/android-Camera2Video-master/Application/src/main/res/drawable-xhdpi/ic_action_info.png"
+    },
+    {
+        "merged": "/root/Desktop/android-Camera2Video-master/Application/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/root/Desktop/android-Camera2Video-master/Application/src/main/res/drawable-xhdpi/ic_launcher.png"
+    }
+]

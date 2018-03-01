@@ -1,0 +1,4 @@
+#Thu Mar 01 19:54:17 IST 2018
+base.0=/home/yaju/AndroidStudioProjects/android-Camera2Video-master/Application/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/yaju/AndroidStudioProjects/android-Camera2Video-master/Application/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
